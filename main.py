@@ -13,7 +13,7 @@ if __name__ == "__main__":
     
     embed_config = {
         "model_name": "textembedding-gecko@003",
-        "project": "quizzify-426416",
+        "project": "GOOGLE_PROJECT_ID",
         "location": "us-central1"
     }
     
