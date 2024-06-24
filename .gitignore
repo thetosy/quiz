@@ -1,0 +1,5 @@
+env/
+db/
+__pycache__/
+application_key.json
+ai-data.json
